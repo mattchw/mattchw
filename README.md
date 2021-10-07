@@ -22,4 +22,4 @@
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
-[![mattchw's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattchw?theme=prussian)](https://github.com/mattchw/github-readme-stats)
+[![mattchw's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattchw&theme=prussian)](https://github.com/mattchw/github-readme-stats)
