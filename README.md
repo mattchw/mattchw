@@ -22,5 +22,9 @@ I code and explore new technologies, and I love what I do.
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ---
 [![mattchw's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattchw&theme=prussian)](https://github.com/mattchw)
