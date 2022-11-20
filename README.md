@@ -27,11 +27,11 @@ I code and explore new technologies, and I love what I do.
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Applying what I’ve learnt in Atomic Habits into coding](https://levelup.gitconnected.com/applying-what-ive-learnt-in-atomic-habits-into-coding-cb268137ea35?source=rss-804a12ce32ca------2) 
+- [XSS — Top cybersecurity threat you must know as a developer](https://levelup.gitconnected.com/xss-top-cybersecurity-threat-you-must-know-as-a-developer-c73a71697bd8?source=rss-804a12ce32ca------2)
+- [Applying what I’ve learnt in Atomic Habits into coding](https://levelup.gitconnected.com/applying-what-ive-learnt-in-atomic-habits-into-coding-cb268137ea35?source=rss-804a12ce32ca------2)
 - [My Daily Git Workflow](https://levelup.gitconnected.com/my-daily-git-workflow-a176387d6cd?source=rss-804a12ce32ca------2)
 - [When should you use Node.js?](https://levelup.gitconnected.com/when-should-you-use-node-js-727c7d97fd09?source=rss-804a12ce32ca------2)
 - [Operating System — Scheduling](https://levelup.gitconnected.com/operating-system-scheduling-fb7dc14b8c0a?source=rss-804a12ce32ca------2)
-- [Operating System — Threading](https://levelup.gitconnected.com/operating-system-threading-ae9697322efb?source=rss-804a12ce32ca------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗 Connect with me
